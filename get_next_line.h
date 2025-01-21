@@ -36,5 +36,3 @@ void			*ft_calloc(size_t nmemb, size_t size);
 char			*ft_strdup(const char *s);
 
 #endif
-//cc -Werror -Wall -Wextra prova.c get_next_line.c get_next_line_utils.c
-//valgrind --leak-check=full --track-origins=yes --show-leak-kinds=all ./a.out
