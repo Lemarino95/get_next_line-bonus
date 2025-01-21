@@ -36,4 +36,3 @@ void			*ft_calloc(size_t nmemb, size_t size);
 char			*ft_strdup(const char *s);
 
 #endif
-//cc -Werror -Wall -Wextra get_next_line_bonus.c get_next_line_utils_bonus.c
