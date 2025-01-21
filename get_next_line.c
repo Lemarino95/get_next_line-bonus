@@ -12,7 +12,7 @@
 
 #include "get_next_line.h"
 
-static char	*ft_appenduntil(const char *src, int c)
+static char	*ft_appenduntil(const char *src, int c)// Allocates memory and returns a string up until the first occurrence of "c" in "src"
 {
 	char	chr;
 	char	*dst;
