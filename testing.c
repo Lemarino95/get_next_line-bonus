@@ -1,6 +1,6 @@
 /* #include "get_next_line.h"
 
-int main()
+int main()// For the normal function.
 {
 	int		fd;
 	int		i;
@@ -24,7 +24,7 @@ int main()
 
 /* #include "get_next_line_bonus.h"
 
-int main()
+int main()// For the bonus version.
 {
 	int		fd1;
 	int		fd2;
